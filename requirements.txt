@@ -1,6 +1,6 @@
-cartopy==0.25.0
-matplotlib==3.10.8
-numpy==2.4.3
-pandas==3.0.1
-pymsis==0.12.0
 streamlit==1.54.0
+pandas==2.2.3
+numpy==2.0.2
+matplotlib==3.10.8
+cartopy==0.25.0
+pymsis
